@@ -330,6 +330,7 @@ let
     ./services/keybase.nix
     ./services/keynav.nix
     ./services/lieer.nix
+    ./services/linux-wallpaperengine.nix
     ./services/listenbrainz-mpd.nix
     ./services/lorri.nix
     ./services/mako.nix
